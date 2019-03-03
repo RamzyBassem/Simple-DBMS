@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Database Test:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Database_Test_jar</output-path>
+    <root id="archive" name="Database Test.jar">
+      <element id="module-output" name="Database Test" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lang3/common-lang3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
